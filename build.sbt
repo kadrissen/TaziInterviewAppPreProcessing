@@ -10,9 +10,9 @@ libraryDependencies += "org.scalactic" %% "scalactic" % "3.0.1"
 
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.1" % "test"
 
-libraryDependencies += "com.example" %% "utilities" % "0.1"
+libraryDependencies += "com.example" %% "utilities" % "latest.integration"
 
-libraryDependencies += "com.example" %% "foo" % "0.1"
+libraryDependencies += "com.example" %% "foo" % "latest.integration"
 
 
 //Artifactory repo configuration
